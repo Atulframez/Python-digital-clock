@@ -23,3 +23,23 @@ It displays the current **time and date** in real-time with a clean graphical in
 - time module
 
 ---
+
+🎯 Learning Outcomes
+
+Python GUI development using Tkinter
+
+Working with real-time updates
+
+Understanding event loops
+
+Building desktop applications
+
+👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+⭐ Support
+
+If you like this project, don’t forget to star ⭐ the repository!
